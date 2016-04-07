@@ -15,8 +15,9 @@ No instructions
 ##  Nothing new
 thanks
 
-## Next section
-An un-added change
+## How to Contribute
+
+Please fork and then eat as much as you want.
 
 ## Copyright
 
