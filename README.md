@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with a couple of files for demos
+Sample website with a couple of files for demos. This for rebasing
 
 ## Deployment
 
