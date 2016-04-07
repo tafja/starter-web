@@ -18,3 +18,6 @@ thanks
 ## Next section
 An un-added change
 
+## Copyright
+
+2016 GotGit Example
